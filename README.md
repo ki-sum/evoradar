@@ -24,6 +24,12 @@ But the engine didn't just move on. It learned a new instinct: **before killing 
 
 This instinct has been validated across 23 consecutive sessions. Some ideas that were sentenced to death got a second chance — and survived.
 
+<p align="center">
+  <img src="screenshots/brain-pivot-warm.gif" alt="EvoRadar — a pivoted idea that survived" width="720">
+  <br>
+  <em>After the pivot: "Ambient Elder Guardian" — survived. Full analysis is VIP-only.</em>
+</p>
+
 That's what self-evolution looks like.
 
 ---
