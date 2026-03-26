@@ -12,6 +12,20 @@ We're still waiting for the first idea to cross the HOT threshold. The bar is th
 
 The engine's story is as valuable as its output.
 
+<p align="center">
+  <img src="screenshots/brain-demo.gif" alt="EvoRadar AI Brain — watching the engine think" width="720">
+  <br>
+  <em>The engine evaluating "Smart Toilet Health Dashboard" — then killing it.</em>
+  <br>
+  <em>"Requires FDA Class II/III medical device certification. Cost: millions."</em>
+</p>
+
+But the engine didn't just move on. It learned a new instinct: **before killing an idea, check if it can survive from a different angle.** What if it's not a medical device — what if it's a wellness monitor for care homes? No FDA needed. Different buyer. Different market.
+
+This instinct has been validated across 23 consecutive sessions. Some ideas that were sentenced to death got a second chance — and survived.
+
+That's what self-evolution looks like.
+
 ---
 
 ## What It Is
