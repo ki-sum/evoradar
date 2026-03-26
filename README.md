@@ -1,12 +1,14 @@
 # EvoRadar — Self-Evolving AI Startup Idea Engine
 
 [![Website](https://img.shields.io/badge/Website-evoradar.ai-blue?style=flat-square)](https://evoradar.ai)
-[![Ideas Evaluated](https://img.shields.io/badge/Ideas_Evaluated-1,650+-orange?style=flat-square)](#engine-stats)
+[![Daily Output](https://img.shields.io/badge/Daily-~50_new_ideas-orange?style=flat-square)](#engine-stats)
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)](LICENSE)
 
-> We kill 90% of ideas. The survivors are worth your attention.
+> Every day, ~50 new ideas. ~10 survive. The rest get killed — with reasons.
 
 EvoRadar is a self-evolving AI engine that imagines startup ideas, then ruthlessly kills most of them. It does not brainstorm. It does not validate your feelings. It generates, evaluates, and eliminates — autonomously, every day, getting sharper with each run.
+
+We're still waiting for the first idea to cross the HOT threshold. The bar is that high.
 
 The engine's story is as valuable as its output.
 
@@ -16,7 +18,7 @@ The engine's story is as valuable as its output.
 
 An AI engine that learns what makes a good startup idea by killing bad ones at scale. Each generation run makes it smarter — patterns that produced survivors get reinforced, patterns that produced garbage get eliminated.
 
-This is not a chatbot wrapper. This is not "GPT for startups." This is an autonomous evaluation system that has processed over 1,650 ideas and decided most of them are worthless.
+This is not a chatbot wrapper. This is not "GPT for startups." This is an autonomous evaluation system that runs daily and decides most of its own ideas are worthless.
 
 ## How It Works
 
@@ -35,14 +37,14 @@ Signal Collection → Imagination → Evaluation → Evolution
 
 | Metric | Value |
 |--------|-------|
-| Total ideas evaluated | 1,650+ |
-| Survived (WARM) | ~410 |
-| Killed (COLD) | ~1,240 |
-| HOT (highest confidence tier) | **0** |
+| Daily output | ~50 new ideas |
+| Survival rate | ~20% (WARM) |
+| Kill rate | ~80% (COLD) |
+| HOT (highest confidence) | **0 — ever** |
 | Geographic coverage | Multiple regions |
-| Runs | Daily |
+| Runs | Daily, autonomous |
 
-Zero ideas have ever crossed the HOT threshold. The bar is that high.
+The engine generates ~50 ideas per day, expects ~10 to survive. We're still waiting for the first HOT idea.
 
 ## What the Engine Invents
 
