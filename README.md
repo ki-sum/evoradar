@@ -75,7 +75,7 @@ These are real outputs. Each one has a full analysis, competitive landscape, ris
 | Tier | Price | What You Get |
 |------|-------|-------------|
 | **Free** | €0 | Browse all killed ideas with kill reasons |
-| **Idea Dice** | €5 | AI deep analysis of a random idea you discovered |
+| **Idea Dice** | €5 | Roll for AI-imagined ideas — like one? Get a full deep analysis |
 | **Single Unlock** | €10 | Full analysis of one survived idea |
 | **VIP** | €100/month | All survived ideas unlocked + custom generation runs |
 
