@@ -5,13 +5,13 @@ All notable milestones for the EvoRadar engine and platform.
 ---
 
 ## 2026-05-08
-**Evolution Lab launched (`/evo`)** — Live DNA double-helix view of the engine's learned genes. Public dashboard with idea counts, industry distribution, signal strength, and gene status. Names are abstracted; the rules and evidence behind each gene stay confidential.
+**Evolution Lab launched (`/evo`)** — Live DNA double-helix view of the engine's learned genes. Public dashboard with idea counts, industry distribution, signal strength, and gene status.
 
 ## 2026-05-04
 **Three new instincts in two weeks** — The engine learned to (1) match signal types to thinking modes (different generation approaches need different signal diets), (2) flag ideas where the price gap between buyer segments is too wide for a single product to bridge, and (3) recognize regulatory-liability pricing floors that third parties can't undercut. All three emerged from cross-project review against a sister product.
 
 ## 2026-04-29
-**EU consumer-law compliance sprint** — Mandatory cancellation button (§312k BGB), 14-day withdrawal flow (§356a / §357a), cookie consent with audit trail, dedicated sub-processors page, persistent legal footer. Bilingual throughout: English-primary with German alongside.
+**EU consumer-law compliance sprint** — Mandatory cancellation button (§312k BGB), 14-day withdrawal flow (§356a / §357a), cookie consent with audit trail, dedicated sub-processors page, persistent legal footer.
 
 ## 2026-04-15
 **Priority signal sources expanded** — Eight specialized sources added to the daily scan: regulatory monitors, biotech pipelines, energy and storage, clinical trials, and others. Broadens the engine's view beyond general tech news.
@@ -38,7 +38,7 @@ All notable milestones for the EvoRadar engine and platform.
 **Scoring overhaul** — A single catastrophic weakness now kills the idea regardless of other strengths. This mirrors how real startups fail.
 
 ## 2026-01
-**First scale output** — 2,000+ ideas generated. Kill rate evolved from 53% to 90% as the engine learned to be ruthless.
+**First scale output** — 2,000+ ideas generated. Most turned out to be near-duplicates and were manually pruned — which is why today's count is smaller, not larger, than this early peak. Kill rate evolved from 53% to 90% as the engine learned to be ruthless.
 
 ## 2025 (pre-public)
 **Five complete rewrites** before the engine produced anything worth sharing. v1 generated 60 ideas and killed zero of them. Each version taught the engine what not to do.
