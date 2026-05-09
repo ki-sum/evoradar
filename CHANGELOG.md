@@ -4,7 +4,7 @@ All notable milestones for the EvoRadar engine and platform.
 
 ---
 
-## 2026-05-09
+## 2026-05-08
 **Evolution Lab launched (`/evo`)** — Live DNA double-helix view of the engine's learned genes. Public dashboard with idea counts, industry distribution, signal strength, and gene status. Names are abstracted; the rules and evidence behind each gene stay confidential.
 
 ## 2026-05-04
