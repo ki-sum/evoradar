@@ -67,6 +67,12 @@ Signal Collection → Imagination → Evaluation → Evolution
 3. **Evaluation** — Multi-pass scrutiny. No mercy. No curve grading. A single fatal weakness kills the idea.
 4. **Evolution** — The engine mutates based on results. It learns autonomously.
 
+That pipeline isn't what we started with.
+
+The first engine ran on **imagination alone** — combining unrelated capabilities to see what fell out. Creative, but unfocused. The next version tried what most accelerators preach: **start from user pain.** That produced a flood of "AI [tool] for [profession]" ideas, most of which failed evaluation for the same small set of reasons.
+
+What survived, run after run, were ideas anchored to something real that had just changed in the world: a new technology becoming cheap, a new regulation creating an obligation, a new behavior crossing a tipping point. So the engine evolved toward those signals. Imagination still drives generation — but now it points at something, not at random.
+
 ## Engine Stats
 
 | Metric | Value |
