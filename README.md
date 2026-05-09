@@ -103,6 +103,19 @@ The $25 Smart Label                   Metabolic Mental Health Monitor
 
 These titles were surfaced in an early curation pass when we asked the engine to highlight its most interesting work. Most have since been retired from the live database — merged into stronger variants or removed during dedup. **This list shows the engine's creative range, not the current buyable inventory.** What you can unlock today lives at [evoradar.ai](https://evoradar.ai) — the live grid shows current ideas with full analysis, kill reasons, and pricing.
 
+## Don't Sleep on the Killed Ones
+
+The engine kills 80% of what it generates. That doesn't make those ideas worthless — it means the engine, **with its current rules and evidence**, decided not to bet on them. You're not the engine. A human can spot what an algorithm misses: a regulatory shift about to flip the verdict, a buyer category the engine wasn't searching for, a pivot the engine didn't try, a timing the engine called wrong because the rules don't track that signal yet.
+
+Some real examples from the live database — all COLD, all interesting once you read past the verdict:
+
+- **Fully Offline Personalized Voice Tutor** — killed for *"on-device models too weak for meaningful tutoring."* This kill expires automatically as on-device AI improves. Watch the same idea for 12–18 months.
+- **Elder Care Voice Companion (Offline)** — killed for *"strong social impact but near-zero monetization; elderly users rarely purchase software directly."* The kill assumes the user pays. What if insurance pays? What if adult children do? Different buyer, same product.
+- **The $25 Smart Label** — killed for *"hardware not viable for indie/bootstrapped founders. Requires manufacturing, supply chain, capital."* The engine optimizes for solo founders. A well-funded team or a factory partner flips this verdict in one meeting.
+- **Voice-Controlled Workflow Builder** — killed for *"too vague. No clear target user or workflow type."* Pick one specific user (blind developers, ER doctors, on-set film crew) and the vagueness disappears.
+
+The kill reasons are themselves a free lesson. Read 50 of them and you'll learn more about why startups fail than most accelerator programs teach. Your next viable idea may be sitting in the COLD bin, one human insight away from working — and the kill reasons are free to read.
+
 ## Website Features
 
 **[evoradar.ai](https://evoradar.ai)** — Live engine output, updated with every run.
