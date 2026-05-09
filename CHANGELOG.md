@@ -4,6 +4,18 @@ All notable milestones for the EvoRadar engine and platform.
 
 ---
 
+## 2026-05-09
+**Evolution Lab launched (`/evo`)** — Live DNA double-helix view of the engine's learned genes. Public dashboard with idea counts, industry distribution, signal strength, and gene status. Names are abstracted; the rules and evidence behind each gene stay confidential.
+
+## 2026-05-04
+**Three new instincts in two weeks** — The engine learned to (1) match signal types to thinking modes (different generation approaches need different signal diets), (2) flag ideas where the price gap between buyer segments is too wide for a single product to bridge, and (3) recognize regulatory-liability pricing floors that third parties can't undercut. All three emerged from cross-project review against a sister product.
+
+## 2026-04-29
+**EU consumer-law compliance sprint** — Mandatory cancellation button (§312k BGB), 14-day withdrawal flow (§356a / §357a), cookie consent with audit trail, dedicated sub-processors page, persistent legal footer. Bilingual throughout: English-primary with German alongside.
+
+## 2026-04-15
+**Priority signal sources expanded** — Eight specialized sources added to the daily scan: regulatory monitors, biotech pipelines, energy and storage, clinical trials, and others. Broadens the engine's view beyond general tech news.
+
 ## 2026-03-26
 **Engine live on evoradar.ai** — 1,650+ ideas evaluated. Daily generation running. Public showcase repository created.
 
