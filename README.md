@@ -101,13 +101,13 @@ Neuromorphic Hearing Aid Processor    Cellular Aging Clock Service
 The $25 Smart Label                   Metabolic Mental Health Monitor
 ```
 
-These titles were surfaced in an early curation pass when we asked the engine to highlight its most interesting work. Most have since been retired from the live database — merged into stronger variants or removed during dedup. **This list shows the engine's creative range, not the current buyable inventory.** What you can unlock today lives at [evoradar.ai](https://evoradar.ai) — the live grid shows current ideas with full analysis, kill reasons, and pricing.
+These titles were surfaced in an early curation pass when we asked the engine to highlight its most interesting work. What you can unlock today lives at [evoradar.ai](https://evoradar.ai) — the live grid shows current ideas with full analysis, kill reasons, and pricing.
 
 ## Don't Sleep on the Killed Ones
 
-The engine kills 80% of what it generates. That doesn't make those ideas worthless — it means the engine, **with its current rules and evidence**, decided not to bet on them. You're not the engine. A human can spot what an algorithm misses: a regulatory shift about to flip the verdict, a buyer category the engine wasn't searching for, a pivot the engine didn't try, a timing the engine called wrong because the rules don't track that signal yet.
+The engine kills 80% of what it generates. That doesn't make those ideas worthless — humans get inspired by them. You read a killed idea and your mind jumps sideways to a related concept: a better angle, a different buyer, an application the original wasn't built for. **That parallel-imagination move is exactly what we built the engine to pursue.** One day the engine may learn to do the same with its own killed output — looking at COLDs and finding the spark the rules missed. That gene-level evolution is what we're waiting for.
 
-Some real examples from the live database — all COLD, all interesting once you read past the verdict:
+Some real examples from the live database — all COLD, all worth reading past the verdict:
 
 - **Fully Offline Personalized Voice Tutor** — killed for *"on-device models too weak for meaningful tutoring."* This kill expires automatically as on-device AI improves. Watch the same idea for 12–18 months.
 - **Elder Care Voice Companion (Offline)** — killed for *"strong social impact but near-zero monetization; elderly users rarely purchase software directly."* The kill assumes the user pays. What if insurance pays? What if adult children do? Different buyer, same product.
