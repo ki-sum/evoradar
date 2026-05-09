@@ -32,6 +32,20 @@ This instinct has been validated across 23 consecutive sessions. Some ideas that
 
 That's what self-evolution looks like.
 
+So where do these instincts live? In **genes** — structural patterns the engine has extracted from evaluating thousands of ideas. Each gene encodes a rule the engine learned the hard way: by killing ideas that violated it. New ideas are checked against every active gene before they're allowed to survive.
+
+<p align="center">
+  <a href="https://evoradar.ai/evo">
+    <img src="screenshots/lab-evolution.gif" alt="EvoRadar Evolution Lab — the engine's learned genes" width="720">
+  </a>
+  <br>
+  <em>Inside the <a href="https://evoradar.ai/evo">Evolution Lab</a> — every base pair is a learned pattern.</em>
+  <br>
+  <em>Mint = validated and active. Amber = under validation. Muted = archived. Names are abstracted; the rules and evidence behind each gene stay confidential.</em>
+</p>
+
+160+ genes, distilled from 2,400+ killed ideas. The double helix is the visualization. The genes themselves are what makes the engine sharper with each run.
+
 ---
 
 ## What It Is
