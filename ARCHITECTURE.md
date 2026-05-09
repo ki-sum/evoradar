@@ -39,6 +39,12 @@ Through thousands of evaluations, the engine developed an instinct for common fa
 
 The engine monitors technology breakthroughs, regulatory changes, and market shifts across multiple industries and regions. These signals determine what the engine thinks about — and therefore what ideas it can imagine.
 
+This wasn't the original approach.
+
+The first version of the engine started from **imagination** — combining unrelated capabilities and seeing what fell out. Creative, but unfocused. The next version tried what most accelerators preach: **start from user pain.** That produced a flood of "AI [tool] for [profession]" ideas, most of which failed evaluation for the same small set of reasons.
+
+What survived, run after run, were ideas anchored to something real that had just changed in the world: a new technology becoming cheap, a new regulation creating an obligation, a new behavior crossing a tipping point. So the engine evolved toward those signals. Imagination is still in the loop — but now it has somewhere to point.
+
 ## Content Model
 
 - **Free**: See killed ideas and why they failed — demonstrates the engine's rigor
