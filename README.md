@@ -88,6 +88,8 @@ Each generation run produces ~50 ideas; the engine expects ~10 to survive. We're
 
 ## What the Engine Invents
 
+*A snapshot of standout outputs from early engine runs — illustrative range, not the current shop window.*
+
 ```
 Intelligence Paint                    Rare-Earth-Free Magnet Patent Factory
 Voice Legacy Vault                    Goldilocks Optimization Engine
@@ -99,7 +101,7 @@ Neuromorphic Hearing Aid Processor    Cellular Aging Clock Service
 The $25 Smart Label                   Metabolic Mental Health Monitor
 ```
 
-These are real engine outputs — surfaced when we asked the engine to highlight its most interesting work. Each one has a full analysis, competitive landscape, risk assessment, and go-to-market sketch behind it.
+These titles were surfaced in an early curation pass when we asked the engine to highlight its most interesting work. Most have since been retired from the live database — merged into stronger variants or removed during dedup. **This list shows the engine's creative range, not the current buyable inventory.** What you can unlock today lives at [evoradar.ai](https://evoradar.ai) — the live grid shows current ideas with full analysis, kill reasons, and pricing.
 
 ## Website Features
 
