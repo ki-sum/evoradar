@@ -14,16 +14,16 @@ All notable milestones for the EvoRadar engine and platform.
 **EU consumer-law compliance sprint** — Mandatory cancellation button (§312k BGB), 14-day withdrawal flow (§356a / §357a), cookie consent with audit trail, dedicated sub-processors page, persistent legal footer.
 
 ## 2026-04-15
-**Priority signal sources expanded** — Eight specialized sources added to the daily scan: regulatory monitors, biotech pipelines, energy and storage, clinical trials, and others. Broadens the engine's view beyond general tech news.
+**Priority signal sources expanded** — Eight specialized sources added to the engine's scan routine: regulatory monitors, biotech pipelines, energy and storage, clinical trials, and others. Broadens the engine's view beyond general tech news.
 
 ## 2026-03-26
-**Engine live on evoradar.ai** — 1,650+ ideas evaluated. Daily generation running. Public showcase repository created.
+**Engine live on evoradar.ai** — 1,650+ ideas evaluated. Generation pipeline running. Public showcase repository created.
 
 ## 2026-03-25
 **Signal awareness expansion** — Broader global signal coverage. Engine now adjusts exploration aggressiveness dynamically per run.
 
 ## 2026-03-20
-**Multi-flavor daily pipeline** — Engine now runs multiple generation approaches daily in a single automated pipeline.
+**Multi-flavor pipeline** — Engine now runs multiple generation approaches in a single automated pipeline per run.
 
 ## 2026-03-14
 **Domain migration to evoradar.ai** — Dedicated domain with full auth and email infrastructure.
