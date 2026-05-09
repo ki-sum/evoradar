@@ -44,7 +44,7 @@ So where do these instincts live? In **genes** — structural patterns the engin
   <em>Mint = validated and active. Amber = under validation. Muted = archived. Names are abstracted; the rules and evidence behind each gene stay confidential.</em>
 </p>
 
-160+ genes, distilled from 2,400+ killed ideas. The double helix is the visualization. The genes themselves are what makes the engine sharper with each run.
+The library grows every day. Killed ideas add evidence. Survived ideas reinforce the genes that let them through. The double helix is the visualization — the engine's instincts are the real artifact.
 
 ---
 
