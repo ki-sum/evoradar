@@ -4,6 +4,12 @@ All notable milestones for the EvoRadar engine and platform.
 
 ---
 
+## 2026-05-10
+**Legal hardening + launch-ready public surface** — AGB Round 6 review: refined liability framework with explicit GDPR Art. 82 carve-out, B2B contract penalty for unauthorized AI-training and republication, sui generis database-rights clause, and a clear separation between generic algorithmic output and individualized legal advice. Sentry browser-side error tracking reclassified to a legitimate-interest legal basis with a privacy-page opt-out toggle, accompanied by a published Legitimate Interest Assessment. Public-facing launch hardening: `llms.txt` for AI search engines, canonical URLs across the site, Article schema on idea pages, and a redesigned share-card built from the AI Brain and Evolution Lab visuals.
+
+## 2026-05-09
+**Pre-launch security pass** — Sentry error tracking deployed in the EU region (Frankfurt) with a strict consent / opt-out gate and PII scrubbing before send. Content-Security-Policy added in monitored mode. Two-factor authentication enabled across every external admin account. Source maps now upload privately to Sentry only — never to a public CDN — so stack traces are readable in the dashboard without exposing internal logic to anyone with browser DevTools.
+
 ## 2026-05-08
 **Evolution Lab launched (`/evo`)** — Live DNA double-helix view of the engine's learned genes. Public dashboard with idea counts, industry distribution, signal strength, and gene status.
 

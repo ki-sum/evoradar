@@ -51,6 +51,27 @@ What survived, run after run, were ideas anchored to something real that had jus
 - **Paid**: Unlock full analysis — risk profiles, competitive landscapes, market strategies
 - **VIP**: Custom generation runs tailored to your chosen industries and markets
 
+## Privacy & Data
+
+Every piece of infrastructure runs in the EU. The application server lives in
+Frankfurt (Hetzner). Analytics are PostHog's EU region. Error tracking is
+Sentry's EU region. There is no data path to the United States in normal
+operation, which keeps Schrems II analysis short and Chapter V transfer
+mechanisms unnecessary.
+
+Tracking is deliberately conservative. PostHog autocapture is off and session
+recording is disabled, so the platform never sees what visitors click or type
+beyond the page they're on. PostHog runs only after a visitor accepts the
+cookie banner. Error tracking runs by default under legitimate-interest
+grounds — with a one-click opt-out on the privacy policy page — because
+unaddressed bugs hurt every user, and we'd rather know they exist. Email
+addresses and IP addresses are scrubbed from error events before they leave
+the server.
+
+The complete sub-processor list is at
+[`/sub-processors`](https://evoradar.ai/sub-processors). A Legitimate Interest
+Assessment for error tracking is filed internally and reviewed annually.
+
 ---
 
 *The engine evolves continuously. This describes its approach, not its implementation.*
