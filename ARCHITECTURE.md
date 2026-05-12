@@ -49,7 +49,7 @@ What survived, run after run, were ideas anchored to something real that had jus
 
 - **Free**: See killed ideas and why they failed — demonstrates the engine's rigor
 - **Paid**: Unlock full analysis — risk profiles, competitive landscapes, market strategies
-- **VIP**: Custom generation runs tailored to your chosen industries and markets
+- **VIP**: Generate ideas only for you — choose your industries and markets, the engine produces high-conviction ideas specifically for that scope
 
 ## Privacy & Data
 

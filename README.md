@@ -123,7 +123,7 @@ The kill reasons are themselves a free lesson. Read 50 of them and you'll learn 
 - **AI Brain 3D Globe** — Every idea plotted on a rotating globe. Watch the engine's imagination spread across industries and regions.
 - **Idea Dice** — Roll the dice, get a random idea. Simple dopamine hit with substance behind it.
 - **Live AI Thinking Replay** — Watch the engine's actual reasoning process as it evaluates an idea in real time.
-- **VIP Custom Generation** — Choose your industry and market. The engine generates and evaluates ideas specifically for you.
+- **Generate Ideas Only For You (VIP)** — Choose your industry and market. The engine generates and evaluates ideas specifically for you.
 
 ## Pricing
 
@@ -132,7 +132,7 @@ The kill reasons are themselves a free lesson. Read 50 of them and you'll learn 
 | **Free** | €0 | Browse all killed ideas with kill reasons |
 | **Idea Dice** | €5 | Roll for AI-imagined ideas — like one? Get a full deep analysis |
 | **Single Unlock** | €10 | Full analysis of one survived idea |
-| **VIP** | €100/month | All survived ideas unlocked + custom generation runs |
+| **VIP** | €50/month | All survived ideas unlocked + generate ideas only for you |
 
 Free users see why ideas die. That alone teaches you more about startups than most accelerators.
 
