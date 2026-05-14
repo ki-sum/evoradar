@@ -132,7 +132,8 @@ The kill reasons are themselves a free lesson. Read 50 of them and you'll learn 
 | **Free** | €0 | Browse all killed ideas with kill reasons |
 | **Idea Dice** | €5 | Roll for AI-imagined ideas — like one? Get a full deep analysis |
 | **Single Unlock** | €10 | Full analysis of one survived idea |
-| **VIP** | €50/month | All survived ideas unlocked + generate ideas only for you |
+| **Single Run** | €30 | One personal AI run — generate fresh WARM ideas tailored to your industry & region |
+| **VIP** | €50/month | All survived ideas unlocked + 2 personal runs/month |
 
 Free users see why ideas die. That alone teaches you more about startups than most accelerators.
 

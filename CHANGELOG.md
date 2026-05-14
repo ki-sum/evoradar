@@ -4,6 +4,9 @@ All notable milestones for the EvoRadar engine and platform.
 
 ---
 
+## 2026-05-14
+**Single Run launched (€30 one-time credit)** — A new product between Single Unlock and VIP: pay €30 for one personal AI run that generates fresh WARM ideas tailored to the buyer's industry and region. The credit doesn't change tier (free stays free, VIP stays VIP) and doesn't expire. Works as a low-commitment onramp for users who want a real personal run without subscribing.
+
 ## 2026-05-10
 **Legal hardening + launch-ready public surface** — AGB Round 6 review: refined liability framework with explicit GDPR Art. 82 carve-out, B2B contract penalty for unauthorized AI-training and republication, sui generis database-rights clause, and a clear separation between generic algorithmic output and individualized legal advice. Sentry browser-side error tracking reclassified to a legitimate-interest legal basis with a privacy-page opt-out toggle, accompanied by a published Legitimate Interest Assessment. Public-facing launch hardening: `llms.txt` for AI search engines, canonical URLs across the site, Article schema on idea pages, and a redesigned share-card built from the AI Brain and Evolution Lab visuals.
 
